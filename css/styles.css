@@ -1,0 +1,26 @@
+@font-face{
+    font-family: localHealthClub;
+    src: url('Roustel.ttf')
+}
+h1 {
+    display:inline-block;
+    font-family: localHealthClub;
+    text-align: center;
+    color:#4D774E;
+    padding-right: 30px;
+    font-size: 200%;
+}
+h2 {
+    font-family: localHealthClub;
+    text-align: center;
+}
+.aligncenter {
+    text-align: center;
+}
+i {
+    color:#4D774E;
+    padding-top: 15px;
+}
+.background{
+    background-image: linear-gradient(#E9E9E6,#4D774E);
+}
